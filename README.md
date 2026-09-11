@@ -1,5 +1,6 @@
-# Actividad-2.1
-Nombre de la actividad.
-Integrantes.
-Descripción breve del proyecto.
-Instrucciones básicas para ejecutar las pruebas.
+//INSTITUTO / UNIVERSIDAD: Centro Universitario de Tonala
+//NÚMERO DE EQUIPO: Equipo #1
+//INTEGRANTES:
+//- Gonzalez Vega Marco Antonio
+//- Landa Lopez Oscar Tadeo
+//DESCRIPCIÓN: Clase de modelo para la entidad Donacion
